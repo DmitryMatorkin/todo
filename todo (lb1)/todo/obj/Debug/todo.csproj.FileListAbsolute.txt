@@ -1,0 +1,34 @@
+C:\Users\mator\source\repos\todo\todo\bin\Debug\todo.exe.config
+C:\Users\mator\source\repos\todo\todo\bin\Debug\todo.exe
+C:\Users\mator\source\repos\todo\todo\bin\Debug\todo.pdb
+C:\Users\mator\source\repos\todo\todo\obj\Debug\todo.csproj.AssemblyReference.cache
+C:\Users\mator\source\repos\todo\todo\obj\Debug\MainWindow.g.cs
+C:\Users\mator\source\repos\todo\todo\obj\Debug\App.g.cs
+C:\Users\mator\source\repos\todo\todo\obj\Debug\todo_MarkupCompile.cache
+C:\Users\mator\source\repos\todo\todo\obj\Debug\todo_MarkupCompile.lref
+C:\Users\mator\source\repos\todo\todo\obj\Debug\MainWindow.baml
+C:\Users\mator\source\repos\todo\todo\obj\Debug\todo.g.resources
+C:\Users\mator\source\repos\todo\todo\obj\Debug\todo.Properties.Resources.resources
+C:\Users\mator\source\repos\todo\todo\obj\Debug\todo.csproj.GenerateResource.cache
+C:\Users\mator\source\repos\todo\todo\obj\Debug\todo.csproj.CoreCompileInputs.cache
+C:\Users\mator\source\repos\todo\todo\obj\Debug\todo.exe
+C:\Users\mator\source\repos\todo\todo\obj\Debug\todo.pdb
+C:\Users\mator\source\repos\todo\todo\obj\Debug\Reg.g.cs
+C:\Users\mator\source\repos\todo\todo\obj\Debug\Reg.baml
+C:\Users\mator\source\repos\todo (lb1)\todo\bin\Debug\todo.exe.config
+C:\Users\mator\source\repos\todo (lb1)\todo\bin\Debug\todo.exe
+C:\Users\mator\source\repos\todo (lb1)\todo\bin\Debug\todo.pdb
+C:\Users\mator\source\repos\todo (lb1)\todo\obj\Debug\todo.csproj.AssemblyReference.cache
+C:\Users\mator\source\repos\todo (lb1)\todo\obj\Debug\MainWindow.g.cs
+C:\Users\mator\source\repos\todo (lb1)\todo\obj\Debug\Reg.g.cs
+C:\Users\mator\source\repos\todo (lb1)\todo\obj\Debug\App.g.cs
+C:\Users\mator\source\repos\todo (lb1)\todo\obj\Debug\todo_MarkupCompile.cache
+C:\Users\mator\source\repos\todo (lb1)\todo\obj\Debug\todo_MarkupCompile.lref
+C:\Users\mator\source\repos\todo (lb1)\todo\obj\Debug\MainWindow.baml
+C:\Users\mator\source\repos\todo (lb1)\todo\obj\Debug\Reg.baml
+C:\Users\mator\source\repos\todo (lb1)\todo\obj\Debug\todo.g.resources
+C:\Users\mator\source\repos\todo (lb1)\todo\obj\Debug\todo.Properties.Resources.resources
+C:\Users\mator\source\repos\todo (lb1)\todo\obj\Debug\todo.csproj.GenerateResource.cache
+C:\Users\mator\source\repos\todo (lb1)\todo\obj\Debug\todo.csproj.CoreCompileInputs.cache
+C:\Users\mator\source\repos\todo (lb1)\todo\obj\Debug\todo.exe
+C:\Users\mator\source\repos\todo (lb1)\todo\obj\Debug\todo.pdb
